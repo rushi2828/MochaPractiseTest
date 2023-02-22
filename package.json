@@ -9,6 +9,7 @@
   "author": "Rushikesh Mane",
   "license": "ISC",
   "dependencies": {
+    "chromedriver": "^110.0.0",
     "mocha": "^10.2.0",
     "selenium-webdriver": "^4.8.1"
   }
